@@ -3,3 +3,6 @@ This is My First git Sample file
 This Is Good tool used
 
 Sravanth merge conflict lines
+
+merge conflict liness
+
